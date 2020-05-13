@@ -8,7 +8,6 @@ factor = 2
 if number < 2:
     print("Invalid number")
 else:
-
     print(f'the factor is : {number}')
     factor = 2
     while factor <= number:
