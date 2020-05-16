@@ -2,7 +2,7 @@ from math import sqrt
 
 
 def num(answer, d):
-    answer = sqrt(first_side*first_side+second_side*second_side)
+    answer = sqrt(first_side*first_side + second_side*second_side)
     print(answer)
 
 
